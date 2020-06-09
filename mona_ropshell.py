@@ -6,8 +6,8 @@
 # Author: Paolo Stagno (@Void_Sec) - https://voidsec.com
 
 '''
-Usage: mona_ropshell.py modules.txt
-feed mona_ropshell with a file cointaining the results of the execution of !mona modules command
+Usage: mona_ropshell.py -i modules_list.txt -o output.txt
+Feed mona_ropshell.py with a file cointaining the results of !mona modules command execution
 '''
 import sys
 import os
