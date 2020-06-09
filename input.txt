@@ -1,0 +1,19 @@
+0BADF00D   -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D    Module info :
+0BADF00D   -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D    Base       | Top        | Size       | Rebase | SafeSEH | ASLR  | NXCompat | OS Dll | Version, Modulename & Path
+0BADF00D   -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D    0x76690000 | 0x7688e000 | 0x001fe000 | True   | True    | True  |  False   | True   | 10.0.18362.329 [KERNELBASE.dll] (C:\Windows\System32\KERNELBASE.dll)
+0BADF00D    0x769d0000 | 0x76a2e000 | 0x0005e000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [ws2_32.DLL] (C:\Windows\System32\ws2_32.DLL)
+0BADF00D    0x75de0000 | 0x75e3f000 | 0x0005f000 | True   | True    | True  |  False   | True   | 10.0.18362.295 [bcryptPrimitives.dll] (C:\Windows\System32\bcryptPrimitives.dll)
+0BADF00D    0x72290000 | 0x7232f000 | 0x0009f000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [apphelp.dll] (C:\Windows\SYSTEM32\apphelp.dll)
+0BADF00D    0x76490000 | 0x76570000 | 0x000e0000 | True   | True    | True  |  False   | True   | 10.0.18362.329 [KERNEL32.DLL] (C:\Windows\System32\KERNEL32.DLL)
+0BADF00D    0x008f0000 | 0x00907000 | 0x00017000 | True   | True    | False |  False   | False  | -1.0- [mcagent.exe] (C:\Program Files (x86)\MediaCoder\mcagent.exe)
+0BADF00D    0x76ab0000 | 0x76b6f000 | 0x000bf000 | True   | True    | True  |  False   | True   | 7.0.18362.1 [msvcrt.dll] (C:\Windows\System32\msvcrt.dll)
+0BADF00D    0x74f70000 | 0x74f7a000 | 0x0000a000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [CRYPTBASE.dll] (C:\Windows\System32\CRYPTBASE.dll)
+0BADF00D    0x74e70000 | 0x74e78000 | 0x00008000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [WSOCK32.dll] (C:\Windows\SYSTEM32\WSOCK32.dll)
+0BADF00D    0x74f80000 | 0x74fa0000 | 0x00020000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [SspiCli.dll] (C:\Windows\System32\SspiCli.dll)
+0BADF00D    0x777b0000 | 0x7794a000 | 0x0019a000 | True   | True    | True  |  False   | True   | 10.0.18362.329 [ntdll.dll] (C:\Windows\SYSTEM32\ntdll.dll)
+0BADF00D    0x75440000 | 0x754fb000 | 0x000bb000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [RPCRT4.dll] (C:\Windows\System32\RPCRT4.dll)
+0BADF00D    0x74fa0000 | 0x75016000 | 0x00076000 | True   | True    | True  |  False   | True   | 10.0.18362.1 [sechost.dll] (C:\Windows\System32\sechost.dll)
+0BADF00D   -----------------------------------------------------------------------------------------------------------------------------------------
